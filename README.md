@@ -3,6 +3,8 @@ A computer science undergraduate students learning *JavaScript, Python, and C*
 Here is a cute cat picture I found on internet:<br>
 <img src="https://i1.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?fit=1920%2C1920&ssl=1" width="500px" height="500px">
 
+<a href="https://juliusechndr.github.io/juliusechndr">My Portofolio</a>
+
 <!--
 **juliusechndr/juliusechndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
