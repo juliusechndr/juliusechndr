@@ -1,6 +1,7 @@
-## Hi there 👋
+A computer science undergraduate students learning *JavaScript, Python, and C*
 
-<img src="https://i1.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?fit=1920%2C1920&ssl=1" width="1000px" height="50px">
+Here is a cute cat picture I found on internet:
+<img src="https://i1.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?fit=1920%2C1920&ssl=1" width="500px" height="500px">
 
 <!--
 **juliusechndr/juliusechndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
